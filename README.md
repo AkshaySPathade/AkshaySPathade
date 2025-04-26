@@ -2,7 +2,7 @@
 <h3 align="center">Result Driven Data Analytics Professional having 2.5+ of years of Experience.</h3>
 
 
-- 🔭 I’m currently working on **Exploratory Data Analysis.**
+- 🔭 I’m currently working on **Microsoft Power BI.**
 
 - 🌱 I’m currently learning **Generative AI.**
 
